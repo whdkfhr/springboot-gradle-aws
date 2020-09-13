@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="me.arok.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-09T10:58:19" hostname="jojaemin-ui-MacBook-Pro.local" time="0.236">
+<testsuite name="me.arok.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-13T08:42:19" hostname="jojaemin-ui-MacBook-Pro.local" time="0.171">
   <properties/>
-  <testcase name="lombok_test" classname="me.arok.springboot.web.dto.HelloResponseDtoTest" time="0.236"/>
+  <testcase name="lombok_test" classname="me.arok.springboot.web.dto.HelloResponseDtoTest" time="0.171"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
