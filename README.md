@@ -1,6 +1,6 @@
-스프링부트와 AWS로 구현하는 웹 서비스
+##스프링부트와 AWS로 구현하는 웹 서비스
 
-프로젝트 개발환경
+###프로젝트 개발환경
 >IDE : IntelliJ IDEA CE
 >OS : Mac OS X
 >SpringBoot 2.1.7
